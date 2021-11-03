@@ -1,5 +1,4 @@
 # Dell-Optiplex-5060-MFF
-EFI for Dell Optiplex 5060 MFF (i3-8100T)
 ## Vietnamese (Tiếng Việt):
 ### Đây là file EFI dành cho Dell Optiplex 5060 MFF (i3 - 8100T)
 - Hoạt động tốt với cấu hình:
@@ -32,3 +31,4 @@ EFI for Dell Optiplex 5060 MFF (i3-8100T)
 - NVMeFix: 1.0.9
 - VirtualSMC: 1.2.7
 - WhateverGreen: 1.5.5
+# Made by Minh Trần Bảo Long in Vietnam
