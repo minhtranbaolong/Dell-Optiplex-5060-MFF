@@ -23,4 +23,12 @@ EFI for Dell Optiplex 5060 MFF (i3-8100T)
 - OpenCore version: 0.7.5
 - GenSMbios: Macmini8,1
 ## Update History:
-### Nothing
+### 03/11/2021
+- OpenCore version: 0.7.5
+#### Kext:
+- Apple ALC: 1.6.6
+- IntelMausiEthernet: 1.0.7
+- Lilu: 1.5.7
+- NVMeFix: 1.0.9
+- VirtualSMC: 1.2.7
+- WhateverGreen: 1.5.5
