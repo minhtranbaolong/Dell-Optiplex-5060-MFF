@@ -21,4 +21,4 @@ This is an Efi Folder for Dell Optiplex 5060 MFF (i3-8100T)
  # System Information:
 - macOS version: Monterey 12.0.1
 - OpenCore version: 0.7.5
-- GenSMbios: macmini8,1
+- GenSMbios: Macmini8,1
