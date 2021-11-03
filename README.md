@@ -5,7 +5,7 @@
 - CPU: Intel Core i3-8100T.
 - GPU: Intel Graphic UHD 630.
 - Ram: 4gb.
-- Ổ cứng: SSD NVMe Kingston A2000 500gb.
+- Ổ cứng: SSD NVMe Kingston A2000 500Gb.
 - Imei thì các bạn có thể dùng GenSMbios để lấy imei nhe mình không cho sẵn.
 - (Máy mình không có card Wifi nên wifi các bạn tự test nhé).
 ## English (Tiếng Anh):
