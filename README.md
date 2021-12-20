@@ -18,8 +18,8 @@
 - Imei, you can use GenSMbios to get imei. I don't have one.
 - (My device does not have a Wifi card, you can test it yourself).
  ## System Information:
-- macOS version: Monterey 12.0.1
-- OpenCore version: 0.7.5
+- macOS version: Monterey 12.1
+- OpenCore version: 0.7.6
 - GenSMbios: Macmini8,1
 ## Update History:
 ### 03/11/2021
