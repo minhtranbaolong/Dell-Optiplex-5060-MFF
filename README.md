@@ -1,5 +1,4 @@
 # Dell-Optiplex-5060-MFF
-## The new version with OpenCore 0.7.6 will be update tomorrow.
 ## Vietnamese (Tiếng Việt):
 ### Đây là file EFI dành cho Dell Optiplex 5060 MFF (i3 - 8100T)
 - Hoạt động tốt với cấu hình:
@@ -31,5 +30,14 @@
 - Lilu: 1.5.7
 - NVMeFix: 1.0.9
 - VirtualSMC: 1.2.7
+- WhateverGreen: 1.5.5
+### 20/12/2021
+- OpenCore version: 0.7.6
+#### Kext
+- Apple ALC: 1.6.7
+- IntelMausiEthernet: 1.0.7
+- Lilu: 1.5.8
+- NVMeFix: 1.0.9
+- VirtualSMC: 1.2.8
 - WhateverGreen: 1.5.5
 # Made by Minh Trần Bảo Long in Vietnam
