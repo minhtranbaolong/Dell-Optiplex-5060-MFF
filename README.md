@@ -1,4 +1,5 @@
 # Dell-Optiplex-5060-MFF
+## The new version with OpenCore 0.7.6 will be update tomorrow.
 ## Vietnamese (Tiếng Việt):
 ### Đây là file EFI dành cho Dell Optiplex 5060 MFF (i3 - 8100T)
 - Hoạt động tốt với cấu hình:
